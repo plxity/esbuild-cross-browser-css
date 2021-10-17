@@ -1,6 +1,6 @@
 ## ESBuild Cross Browser CSS Plugin
 
-An ESBuild plugin to add supoort for cross-browser CSS support.
+An ESBuild plugin to add support for cross-browser CSSgit add .
 
 ## Example
 
