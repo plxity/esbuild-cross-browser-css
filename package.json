@@ -19,7 +19,6 @@
   "author": "Apoorv Taneja",
   "license": "ISC",
   "dependencies": {
-    "esbuild": "^0.13.7",
     "stylis": "^4.0.10"
   }
 }
