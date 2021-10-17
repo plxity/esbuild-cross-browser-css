@@ -1,0 +1,25 @@
+{
+  "name": "esbuild-plugin-cross-browser-css",
+  "version": "0.0.1",
+  "description": "An ESBuild plugin to add cross-browser CSS support",
+  "main": "index.js",
+  "keywords": [
+    "ESBuild",
+    "ESBuild Plugin",
+    "Vendor prefixing ESBuild",
+    "Cross browser CSS"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/plxity/esbuild-cross-browser-css"
+  },
+  "author": "Apoorv Taneja",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.13.7",
+    "stylis": "^4.0.10"
+  }
+}
